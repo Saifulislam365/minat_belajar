@@ -9,7 +9,7 @@ st.write("""
 
 Aplikasi ini digunakan untuk memprediksi   **Minat Belajar Siswa** !
 
-Dataset didapat dari [TIM 3](https://github.com/saifulislam365). Berisi data siswa di beberapa sekolah di kabupaten Probolinggo.
+Projek ini dikelmbang oleh [Saiful Islam](https://www.linkedin.com/in/saiful-islam-9326a220a/), [Feri Irawansyah](https://www.linkedin.com/in/feri-irawansyah-154504216/), [Robi Adam Raditia](https://www.linkedin.com/in/robbi-adam-raditya-ba2804216/), [Nabilla Ramadhani Mantang](https://www.linkedin.com/in/nabillarmdhn/), [Dea Ashari Oktavia](https://www.linkedin.com/in/dea-ashari-oktavia-5761061b6/) . Data set berisi data beberapa siswa sekolah di kabupaten Probolinggo.
 """)
 
 st.sidebar.header('Silahkan Input Disini')

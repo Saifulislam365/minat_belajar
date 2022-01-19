@@ -4,6 +4,8 @@ import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 
+st.set_page_config(page_title="Minat Belajar",
+                    page_icon="student")
 st.write("""
 # Prediksi Minat Belajar Siswa
 
